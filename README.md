@@ -459,3 +459,7 @@ VIM Cheat sheet
 - `^c-rm` - Extract method
 - `^c-rl` - Extract variable
 - `^Space` - Rope completion
+
+---
+#### This was taken from  
+<https://github.com/outcoldman/outcoldman.com/blob/master/content/cheatsheets/vim/index.markdown>
